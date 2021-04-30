@@ -1,11 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 8842-8E98
-
- Directory of C:\Users\vinee\OneDrive\Desktop\My Project\.git
-
-04/29/2021  07:07 PM               279 test1.txt
-04/29/2021  07:11 PM                 0 test2.txt
-               2 File(s)            279 bytes
-               0 Dir(s)  412,348,227,584 bytes free
-this is second commit
 
