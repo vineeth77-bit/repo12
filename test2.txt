@@ -1,1 +1,14 @@
+int a,b,sum = 0:
+printf("Enter values a \n and b\n");
+printf("The sum is %d", sum);
++printf("enter the values");
+scanf("%d",&a);
++c = a*b;
++printf("%d",c);
++for(i=0;i<a;i++)
+{
++printing patterns;
++}
+return 0;
+}
 
