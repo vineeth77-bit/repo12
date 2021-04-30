@@ -1,0 +1,5 @@
+//program to add numbers
+#include<stdio.h>
+int main(_
+int a, b, c;
+printf("enter the values):
